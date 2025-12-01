@@ -1,0 +1,101 @@
+property_id,address_id,property_type_id,bedrooms,bathrooms,square_feet,year_built,description,owner_client_id
+1,111,2,1,4.5,3364,1959,sq ft home featuring hardwood floors and updated kitchen,85
+2,112,2,3,3.5,2782,1928,Charming property in prime location with easy access to transportation,66
+3,113,4,5,5.0,3212,1923,Spacious 3212 sq ft ft home featuring hardwood floors and updated kitchen.,34
+4,114,1,0,4.0,3331,2013,Renovated unit with stainless steel appliances and granite countertops,66
+5,115,1,3,2.5,2586,1925,property with modern amenities and great natural light,69
+6,116,2,2,4.0,1073,2005,Stunning property with panoramic views and premium finishes throughout,16
+7,117,3,4,3.0,3845,1961,Spacious 3845 sq ft property with panoramic views and premium finishes throughout.,54
+8,118,4,5,2.0,2965,1971,property with modern amenities and great natural light,27
+9,119,4,6,3.5,4309,1976,Beautiful 6-bedroom property with panoramic views and premium finishes throughout.,95
+10,120,2,5,1.5,2824,1985,Stunning property with panoramic views and premium finishes throughout,97
+11,121,2,5,3.0,2340,2023,Beautiful 5-bedroom with modern amenities and great natural light.,61
+12,122,5,6,1.5,4230,1973,Stunning property with panoramic views and premium finishes throughout,90
+13,123,4,3,4.0,2498,1938,property with modern amenities and great natural light,
+14,124,1,6,4.0,2292,1942,Stunning property with panoramic views and premium finishes throughout,72
+15,125,2,6,1.5,4239,1937,Stunning property with panoramic views and premium finishes throughout,
+16,126,5,2,4.5,4635,1974,Stunning property with panoramic views and premium finishes throughout,21
+17,127,4,3,3.0,2525,2001,Spacious 2525 sq ft ft home featuring hardwood floors and updated kitchen.,10
+18,128,3,1,3.0,3251,1960,property with modern amenities and great natural light,30
+19,129,4,5,2.0,2252,1928,Spacious 2252 sq ft property with panoramic views and premium finishes throughout.,8
+20,130,2,6,4.0,3690,2018,property with modern amenities and great natural light,
+21,131,5,3,4.5,548,1965,Spacious 548 sq ft unit with stainless steel appliances and granite countertops.,95
+22,132,5,6,2.5,4499,1948,Spacious 4499 sq ft with modern amenities and great natural light.,86
+23,133,4,5,2.0,4328,1936,Stunning property with panoramic views and premium finishes throughout,51
+24,134,5,4,1.0,1187,2002,Spacious 1187 sq ft ft home featuring hardwood floors and updated kitchen.,49
+25,135,3,1,4.5,3177,1963,Renovated unit with stainless steel appliances and granite countertops,54
+26,136,3,6,1.5,4352,1922,property with modern amenities and great natural light,
+27,137,3,1,1.5,829,2016,Beautiful 1-bedroom ft home featuring hardwood floors and updated kitchen.,
+28,138,5,1,2.5,1534,1980,Stunning property with panoramic views and premium finishes throughout,
+29,139,4,5,3.0,3521,1941,property with modern amenities and great natural light,
+30,140,2,2,1.5,710,1959,Renovated unit with stainless steel appliances and granite countertops,92
+31,141,2,0,2.5,1334,2009,Stunning property with panoramic views and premium finishes throughout,
+32,142,5,6,1.0,3344,1988,Spacious 3344 sq ft with modern amenities and great natural light.,44
+33,143,1,6,4.0,4515,1933,Spacious 4515 sq ft unit with stainless steel appliances and granite countertops.,
+34,144,4,1,5.0,2712,1998,Stunning property with panoramic views and premium finishes throughout,
+35,145,4,3,3.0,3140,1951,property with modern amenities and great natural light,58
+36,146,2,6,4.5,3604,1963,Spacious 3604 sq ft ft home featuring hardwood floors and updated kitchen.,46
+37,147,3,2,3.0,2763,1991,Beautiful 2-bedroom with modern amenities and great natural light.,53
+38,148,4,4,2.5,4400,2002,Renovated unit with stainless steel appliances and granite countertops,
+39,149,1,2,2.5,3812,2008,Spacious 3812 sq ft unit with stainless steel appliances and granite countertops.,45
+40,150,4,5,5.0,3209,1965,Charming property in prime location with easy access to transportation,30
+41,111,1,5,2.5,3084,1935,sq ft home featuring hardwood floors and updated kitchen,95
+42,112,4,2,5.0,2818,1932,Charming property in prime location with easy access to transportation,23
+43,113,3,0,5.0,1536,1955,Beautiful 0-bedroom property with panoramic views and premium finishes throughout.,17
+44,114,4,0,1.0,2829,1980,Spacious 2829 sq ft ft home featuring hardwood floors and updated kitchen.,
+45,115,3,6,4.5,1434,1928,Beautiful 6-bedroom property with panoramic views and premium finishes throughout.,7
+46,116,2,1,3.0,1197,1951,Spacious 1197 sq ft property with panoramic views and premium finishes throughout.,80
+47,117,2,6,5.0,3616,1977,Charming property in prime location with easy access to transportation,
+48,118,4,2,1.0,1312,2017,Beautiful 2-bedroom property in prime location with easy access to transportation.,21
+49,119,2,1,5.0,1114,1940,Spacious 1114 sq ft property with panoramic views and premium finishes throughout.,5
+50,120,2,2,3.0,4219,1929,Charming property in prime location with easy access to transportation,
+51,121,5,5,2.5,3982,1934,sq ft home featuring hardwood floors and updated kitchen,
+52,122,2,0,1.0,1859,2021,Spacious 1859 sq ft unit with stainless steel appliances and granite countertops.,89
+53,123,3,5,4.0,2730,1984,Renovated unit with stainless steel appliances and granite countertops,6
+54,124,4,5,3.5,2551,1923,Beautiful 5-bedroom property in prime location with easy access to transportation.,98
+55,125,2,3,5.0,4122,1955,Spacious 4122 sq ft unit with stainless steel appliances and granite countertops.,
+56,126,4,2,4.0,3230,1961,sq ft home featuring hardwood floors and updated kitchen,89
+57,127,4,2,4.0,800,1978,Spacious 800 sq ft property in prime location with easy access to transportation.,99
+58,128,4,6,5.0,509,2004,Renovated unit with stainless steel appliances and granite countertops,25
+59,129,5,2,4.5,4121,2017,Spacious 4121 sq ft property with panoramic views and premium finishes throughout.,37
+60,130,4,5,4.5,1494,1923,Stunning property with panoramic views and premium finishes throughout,
+61,131,2,2,5.0,612,1990,Beautiful 2-bedroom with modern amenities and great natural light.,16
+62,132,2,3,3.0,4668,2010,Spacious 4668 sq ft unit with stainless steel appliances and granite countertops.,71
+63,133,2,3,2.5,4663,2015,property with modern amenities and great natural light,54
+64,134,3,6,5.0,2688,1920,Spacious 2688 sq ft property with panoramic views and premium finishes throughout.,85
+65,135,4,6,2.0,4158,1988,Spacious 4158 sq ft property with panoramic views and premium finishes throughout.,
+66,136,4,3,3.5,2045,2009,Spacious 2045 sq ft ft home featuring hardwood floors and updated kitchen.,
+67,137,4,0,3.5,4374,2010,Renovated unit with stainless steel appliances and granite countertops,85
+68,138,2,3,1.0,1534,1984,Charming property in prime location with easy access to transportation,
+69,139,4,0,5.0,4243,1921,Renovated unit with stainless steel appliances and granite countertops,
+70,140,2,0,4.5,2671,1963,Renovated unit with stainless steel appliances and granite countertops,43
+71,141,5,3,3.5,4497,1989,Beautiful 3-bedroom ft home featuring hardwood floors and updated kitchen.,37
+72,142,2,5,1.5,4055,1932,property with modern amenities and great natural light,89
+73,143,3,0,1.0,3157,2021,Spacious 3157 sq ft property in prime location with easy access to transportation.,32
+74,144,5,3,2.0,1892,1942,Spacious 1892 sq ft property with panoramic views and premium finishes throughout.,64
+75,145,5,1,2.5,4277,2001,Spacious 4277 sq ft with modern amenities and great natural light.,
+76,146,4,2,5.0,1794,1929,Spacious 1794 sq ft property with panoramic views and premium finishes throughout.,55
+77,147,3,3,3.0,2131,1969,property with modern amenities and great natural light,74
+78,148,3,4,3.0,2918,1922,Renovated unit with stainless steel appliances and granite countertops,73
+79,149,1,4,4.5,2844,2019,Stunning property with panoramic views and premium finishes throughout,
+80,150,2,5,2.5,2553,2006,sq ft home featuring hardwood floors and updated kitchen,81
+81,111,1,2,4.5,773,1994,Beautiful 2-bedroom with modern amenities and great natural light.,
+82,112,3,5,4.0,1938,1945,Spacious 1938 sq ft property with panoramic views and premium finishes throughout.,35
+83,113,2,2,4.5,2917,2015,property with modern amenities and great natural light,10
+84,114,2,6,2.5,3755,2022,property with modern amenities and great natural light,
+85,115,1,2,5.0,1512,1978,Spacious 1512 sq ft property with panoramic views and premium finishes throughout.,82
+86,116,3,0,2.5,4362,1923,Stunning property with panoramic views and premium finishes throughout,79
+87,117,2,5,1.5,4303,2009,Spacious 4303 sq ft with modern amenities and great natural light.,5
+88,118,3,3,1.5,1296,1950,sq ft home featuring hardwood floors and updated kitchen,48
+89,119,5,3,2.0,3898,2003,Spacious 3898 sq ft property with panoramic views and premium finishes throughout.,36
+90,120,1,5,3.5,2279,1976,Beautiful 5-bedroom property in prime location with easy access to transportation.,88
+91,121,3,4,3.5,996,1970,Beautiful 4-bedroom unit with stainless steel appliances and granite countertops.,28
+92,122,5,0,1.0,3232,1951,Stunning property with panoramic views and premium finishes throughout,98
+93,123,5,1,2.5,2408,1962,Stunning property with panoramic views and premium finishes throughout,19
+94,124,2,4,3.0,1929,1934,property with modern amenities and great natural light,46
+95,125,2,4,3.5,629,1942,Beautiful 4-bedroom unit with stainless steel appliances and granite countertops.,96
+96,126,1,3,4.5,3465,1985,Renovated unit with stainless steel appliances and granite countertops,79
+97,127,1,5,5.0,2970,1978,property with modern amenities and great natural light,62
+98,128,4,3,1.5,4516,2011,property with modern amenities and great natural light,
+99,129,3,4,2.0,1038,1936,Spacious 1038 sq ft unit with stainless steel appliances and granite countertops.,
+100,130,5,2,4.5,4641,1997,Beautiful 2-bedroom property with panoramic views and premium finishes throughout.,

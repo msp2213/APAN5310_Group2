@@ -1,0 +1,121 @@
+offer_id,listing_id,buyer_client_id,offer_amount,offer_date,offer_status_id,notes
+1,78,77,2273932.45,2025-08-02,3,Contingent on selling current home
+2,57,39,2749651.12,2025-02-08,2,
+3,8,79,2646116.23,2025-04-06,4,Subject to financing approval
+4,34,85,485966.46,2025-07-16,3,Subject to financing approval
+5,1,53,1499788.73,2025-03-02,2,Subject to financing approval
+6,37,91,1094113.73,2025-03-08,1,Subject to financing approval
+7,34,81,1931389.21,2025-08-15,1,Competitive offer with quick closing
+8,70,29,2122900.0,2024-12-09,4,Competitive offer with quick closing
+9,8,22,2413882.2,2025-04-29,4,All cash offer
+10,57,16,1480343.58,2025-11-13,2,All cash offer
+11,65,70,1489629.6,2025-11-12,1,Contingent on selling current home
+12,95,42,1744512.14,2024-12-09,2,
+13,76,3,3001371.27,2025-01-30,2,Competitive offer with quick closing
+14,98,97,755888.49,2025-02-18,2,All cash offer
+15,24,75,1509582.99,2025-10-20,6,Contingent on selling current home
+16,45,53,1200556.66,2025-10-01,5,All cash offer
+17,53,89,1636763.27,2025-09-30,2,
+18,5,59,504344.85,2025-03-28,1,Contingent on selling current home
+19,66,1,2037052.59,2025-01-09,2,Subject to financing approval
+20,67,47,1931135.87,2025-09-14,2,Competitive offer with quick closing
+21,27,35,1852694.92,2025-07-28,2,Contingent on selling current home
+22,16,4,2902117.2,2025-06-24,2,Subject to financing approval
+23,40,71,323848.05,2025-11-09,2,Competitive offer with quick closing
+24,60,16,1891253.32,2025-07-10,5,All cash offer
+25,66,91,1064419.97,2024-11-15,6,Subject to financing approval
+26,59,71,641223.41,2025-09-08,3,Subject to financing approval
+27,9,36,2453423.33,2025-03-02,2,
+28,35,1,1004933.25,2025-07-13,3,Contingent on selling current home
+29,20,58,1669561.59,2025-10-22,3,
+30,49,59,2904503.06,2025-01-01,6,Subject to financing approval
+31,74,50,945817.16,2024-12-25,1,Contingent on selling current home
+32,91,49,1341813.01,2024-12-22,4,Subject to financing approval
+33,64,5,669577.62,2025-06-03,2,Competitive offer with quick closing
+34,57,13,1665953.24,2025-02-20,3,Contingent on selling current home
+35,84,20,510685.75,2025-06-22,2,
+36,89,51,2111603.37,2025-08-02,5,
+37,49,41,2058336.31,2025-01-26,3,
+38,5,80,482154.39,2025-07-03,5,Subject to financing approval
+39,96,12,1346282.83,2025-02-17,3,Competitive offer with quick closing
+40,57,22,2251002.73,2025-05-10,1,Competitive offer with quick closing
+41,38,46,1209513.53,2025-10-10,3,
+42,88,24,692050.29,2025-09-18,5,
+43,88,31,1623111.87,2024-12-16,2,All cash offer
+44,59,33,2173642.49,2025-04-17,3,All cash offer
+45,87,70,702020.53,2025-02-22,2,
+46,39,82,2907755.93,2024-11-14,3,All cash offer
+47,26,50,2385264.02,2025-08-22,2,All cash offer
+48,74,38,2814221.7,2025-07-04,6,Contingent on selling current home
+49,36,2,1833254.59,2025-02-16,3,Competitive offer with quick closing
+50,78,96,1699627.33,2025-08-11,2,Subject to financing approval
+51,78,46,827601.08,2025-06-02,2,Subject to financing approval
+52,81,13,2730838.46,2025-04-18,2,Contingent on selling current home
+53,5,75,1181944.89,2024-11-16,5,All cash offer
+54,96,54,712153.65,2024-12-10,3,All cash offer
+55,68,65,2834388.11,2025-10-02,2,Contingent on selling current home
+56,38,96,2704755.71,2025-10-09,3,Competitive offer with quick closing
+57,19,97,2993988.89,2025-05-31,3,Contingent on selling current home
+58,72,47,521622.49,2025-09-14,2,Competitive offer with quick closing
+59,59,48,2118438.14,2025-06-14,3,All cash offer
+60,14,87,841683.11,2025-01-06,5,
+61,42,79,816434.71,2024-12-29,4,All cash offer
+62,84,53,557705.94,2025-03-05,1,Contingent on selling current home
+63,15,13,915871.14,2025-10-08,2,All cash offer
+64,86,96,2139140.11,2025-08-31,3,Subject to financing approval
+65,54,84,552267.85,2025-09-24,2,All cash offer
+66,5,89,1256876.16,2025-10-08,6,All cash offer
+67,13,88,1337346.22,2025-01-28,3,Competitive offer with quick closing
+68,51,36,746122.71,2025-02-12,4,Contingent on selling current home
+69,12,85,869128.58,2024-12-20,6,Competitive offer with quick closing
+70,43,32,3023411.87,2025-08-25,2,
+71,27,76,909961.9,2025-10-02,2,Subject to financing approval
+72,77,1,1098561.87,2025-04-10,6,
+73,33,23,614685.59,2025-06-28,1,All cash offer
+74,31,76,1087454.19,2025-01-08,1,Contingent on selling current home
+75,68,15,2247221.32,2025-10-19,4,
+76,76,14,1418900.29,2025-09-25,3,
+77,39,59,1842836.03,2025-11-05,6,Contingent on selling current home
+78,55,88,595554.73,2025-09-05,2,Competitive offer with quick closing
+79,42,78,643710.8,2025-10-01,3,
+80,71,92,1235951.46,2024-11-22,3,Contingent on selling current home
+81,65,78,1489255.39,2025-08-09,1,
+82,93,28,1509720.26,2025-03-14,2,Contingent on selling current home
+83,52,54,2149378.94,2025-10-19,2,All cash offer
+84,48,20,2092240.72,2025-09-02,1,Competitive offer with quick closing
+85,12,56,566790.66,2025-09-25,4,
+86,8,76,2837488.25,2025-09-05,3,Contingent on selling current home
+87,46,86,2737183.34,2025-02-18,5,Competitive offer with quick closing
+88,37,77,1047022.65,2025-08-28,3,Subject to financing approval
+89,85,62,829613.16,2024-12-22,4,All cash offer
+90,15,98,982613.21,2025-09-28,2,
+91,99,80,1949613.46,2025-09-23,1,All cash offer
+92,4,24,1052734.77,2025-02-02,5,All cash offer
+93,1,24,2608762.57,2025-09-07,2,Subject to financing approval
+94,95,82,2671742.45,2025-04-30,3,Contingent on selling current home
+95,54,59,1166120.22,2025-03-04,3,
+96,77,11,2479181.87,2025-08-31,4,Competitive offer with quick closing
+97,87,11,1033943.89,2025-02-04,3,Contingent on selling current home
+98,54,35,861618.78,2024-11-21,2,Competitive offer with quick closing
+99,37,87,2074340.39,2025-01-22,3,Competitive offer with quick closing
+100,29,51,2686509.73,2025-03-13,2,Subject to financing approval
+101,99,18,2229515.69,2025-09-25,1,Contingent on selling current home
+102,96,56,741101.89,2025-11-01,3,
+103,72,86,2255843.3,2025-02-23,5,Competitive offer with quick closing
+104,56,3,1405204.7,2025-07-05,2,Contingent on selling current home
+105,74,52,2132901.84,2025-04-08,1,Competitive offer with quick closing
+106,42,22,2445632.05,2025-11-07,4,All cash offer
+107,12,56,2416264.4,2025-05-28,3,
+108,11,51,2681878.28,2025-10-22,2,Subject to financing approval
+109,10,66,1968689.94,2024-12-25,1,All cash offer
+110,45,94,2878011.48,2025-11-03,1,Competitive offer with quick closing
+111,19,33,824607.15,2025-01-17,4,Competitive offer with quick closing
+112,23,99,1934785.6,2025-10-31,3,
+113,58,88,2752376.36,2025-02-18,3,
+114,42,81,1114312.42,2024-12-22,3,All cash offer
+115,36,76,440870.18,2025-04-21,2,Contingent on selling current home
+116,5,8,1221822.55,2025-08-06,3,Competitive offer with quick closing
+117,79,77,1618020.43,2025-03-07,3,Competitive offer with quick closing
+118,58,74,1953314.91,2025-06-22,3,Subject to financing approval
+119,8,58,599660.1,2025-05-19,2,Competitive offer with quick closing
+120,65,83,717780.53,2025-04-02,2,Contingent on selling current home

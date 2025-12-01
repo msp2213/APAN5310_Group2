@@ -1,0 +1,101 @@
+appointment_id,appointment_type_id,appointment_datetime,listing_id,client_id,appointment_outcome_id,notes
+1,3,2025-11-14 05:24:02,9,32,2,"No show, attempting to reschedule."
+2,4,2025-11-14 05:26:00,70,91,1,"Client attended, gathering feedback."
+3,3,2025-11-14 05:27:08,85,14,,Outcome pending or appointment not yet complete.
+4,2,2025-11-14 05:23:58,34,15,,Outcome pending or appointment not yet complete.
+5,2,2025-11-14 05:24:38,35,37,3,"Client loved the property, drafting an offer."
+6,2,2025-11-14 05:28:44,88,82,,Outcome pending or appointment not yet complete.
+7,4,2025-11-14 05:26:39,33,7,4,Requires follow-up on financing.
+8,3,2025-11-14 05:25:23,6,1,2,"No show, attempting to reschedule."
+9,3,2025-11-14 05:25:52,21,95,4,Requires follow-up on financing.
+10,1,2025-11-14 05:23:29,15,10,,Outcome pending or appointment not yet complete.
+11,2,2025-11-14 05:24:06,70,5,,Outcome pending or appointment not yet complete.
+12,2,2025-11-14 05:24:47,56,17,3,"Client loved the property, drafting an offer."
+13,1,2025-11-14 05:26:17,46,27,1,"Client attended, gathering feedback."
+14,3,2025-11-14 05:24:08,100,72,,Outcome pending or appointment not yet complete.
+15,4,2025-11-14 05:24:05,80,96,2,"No show, attempting to reschedule."
+16,2,2025-11-14 05:23:11,23,53,3,"Client loved the property, drafting an offer."
+17,4,2025-11-14 05:26:33,86,95,,Outcome pending or appointment not yet complete.
+18,3,2025-11-14 05:24:08,21,90,1,"Client attended, gathering feedback."
+19,4,2025-11-14 05:28:11,29,26,,Outcome pending or appointment not yet complete.
+20,4,2025-11-14 05:27:55,45,40,,Outcome pending or appointment not yet complete.
+21,2,2025-11-14 05:23:11,29,4,4,Requires follow-up on financing.
+22,3,2025-11-14 05:24:11,36,9,,Outcome pending or appointment not yet complete.
+23,3,2025-11-14 05:26:46,45,83,3,"Client loved the property, drafting an offer."
+24,1,2025-11-14 05:24:03,15,34,3,"Client loved the property, drafting an offer."
+25,1,2025-11-14 05:23:33,14,77,3,"Client loved the property, drafting an offer."
+26,4,2025-11-14 05:28:22,78,66,2,"No show, attempting to reschedule."
+27,3,2025-11-14 05:26:11,6,91,2,"No show, attempting to reschedule."
+28,3,2025-11-14 05:25:36,56,9,,Outcome pending or appointment not yet complete.
+29,3,2025-11-14 05:27:28,80,41,1,"Client attended, gathering feedback."
+30,3,2025-11-14 05:27:36,65,40,3,"Client loved the property, drafting an offer."
+31,4,2025-11-14 05:23:54,90,38,2,"No show, attempting to reschedule."
+32,4,2025-11-14 05:23:20,86,49,2,"No show, attempting to reschedule."
+33,3,2025-11-14 05:25:21,52,71,,Outcome pending or appointment not yet complete.
+34,3,2025-11-14 05:25:18,37,27,3,"Client loved the property, drafting an offer."
+35,4,2025-11-14 05:25:34,57,57,4,Requires follow-up on financing.
+36,2,2025-11-14 05:27:08,85,11,3,"Client loved the property, drafting an offer."
+37,1,2025-11-14 05:26:48,97,31,2,"No show, attempting to reschedule."
+38,2,2025-11-14 05:28:40,19,4,4,Requires follow-up on financing.
+39,1,2025-11-14 05:23:21,59,54,,Outcome pending or appointment not yet complete.
+40,2,2025-11-14 05:25:10,92,90,4,Requires follow-up on financing.
+41,2,2025-11-14 05:24:48,19,84,1,"Client attended, gathering feedback."
+42,4,2025-11-14 05:27:56,29,23,,Outcome pending or appointment not yet complete.
+43,4,2025-11-14 05:24:15,7,72,1,"Client attended, gathering feedback."
+44,4,2025-11-14 05:23:54,18,60,3,"Client loved the property, drafting an offer."
+45,4,2025-11-14 05:25:27,79,93,,Outcome pending or appointment not yet complete.
+46,4,2025-11-14 05:25:17,71,58,,Outcome pending or appointment not yet complete.
+47,4,2025-11-14 05:24:26,58,34,3,"Client loved the property, drafting an offer."
+48,4,2025-11-14 05:24:15,81,31,1,"Client attended, gathering feedback."
+49,3,2025-11-14 05:28:18,31,35,1,"Client attended, gathering feedback."
+50,2,2025-11-14 05:25:25,20,30,2,"No show, attempting to reschedule."
+51,2,2025-11-14 05:27:56,9,54,4,Requires follow-up on financing.
+52,4,2025-11-14 05:26:04,8,27,,Outcome pending or appointment not yet complete.
+53,4,2025-11-14 05:23:04,99,75,,Outcome pending or appointment not yet complete.
+54,1,2025-11-14 05:28:45,98,74,1,"Client attended, gathering feedback."
+55,3,2025-11-14 05:27:46,39,97,4,Requires follow-up on financing.
+56,2,2025-11-14 05:28:34,63,29,4,Requires follow-up on financing.
+57,1,2025-11-14 05:28:19,50,44,4,Requires follow-up on financing.
+58,2,2025-11-14 05:27:51,60,17,,Outcome pending or appointment not yet complete.
+59,1,2025-11-14 05:23:45,51,76,1,"Client attended, gathering feedback."
+60,1,2025-11-14 05:25:40,83,55,4,Requires follow-up on financing.
+61,2,2025-11-14 05:24:02,7,34,2,"No show, attempting to reschedule."
+62,4,2025-11-14 05:25:10,42,44,4,Requires follow-up on financing.
+63,3,2025-11-14 05:23:07,97,54,1,"Client attended, gathering feedback."
+64,4,2025-11-14 05:25:02,3,96,3,"Client loved the property, drafting an offer."
+65,2,2025-11-14 05:28:40,84,9,1,"Client attended, gathering feedback."
+66,1,2025-11-14 05:24:21,32,26,,Outcome pending or appointment not yet complete.
+67,2,2025-11-14 05:27:28,31,17,1,"Client attended, gathering feedback."
+68,2,2025-11-14 05:25:29,60,90,3,"Client loved the property, drafting an offer."
+69,2,2025-11-14 05:25:18,78,78,,Outcome pending or appointment not yet complete.
+70,1,2025-11-14 05:28:30,100,21,,Outcome pending or appointment not yet complete.
+71,1,2025-11-14 05:28:44,75,4,,Outcome pending or appointment not yet complete.
+72,4,2025-11-14 05:26:06,51,92,2,"No show, attempting to reschedule."
+73,1,2025-11-14 05:27:04,90,99,1,"Client attended, gathering feedback."
+74,1,2025-11-14 05:23:41,45,69,3,"Client loved the property, drafting an offer."
+75,1,2025-11-14 05:24:32,65,83,4,Requires follow-up on financing.
+76,4,2025-11-14 05:28:34,14,56,,Outcome pending or appointment not yet complete.
+77,4,2025-11-14 05:26:14,91,20,3,"Client loved the property, drafting an offer."
+78,4,2025-11-14 05:26:01,60,56,,Outcome pending or appointment not yet complete.
+79,3,2025-11-14 05:27:15,42,32,,Outcome pending or appointment not yet complete.
+80,1,2025-11-14 05:23:06,36,58,4,Requires follow-up on financing.
+81,4,2025-11-14 05:26:16,44,4,3,"Client loved the property, drafting an offer."
+82,2,2025-11-14 05:25:47,63,28,3,"Client loved the property, drafting an offer."
+83,3,2025-11-14 05:27:52,36,77,3,"Client loved the property, drafting an offer."
+84,1,2025-11-14 05:23:42,67,25,4,Requires follow-up on financing.
+85,4,2025-11-14 05:28:31,72,98,4,Requires follow-up on financing.
+86,4,2025-11-14 05:23:14,58,3,2,"No show, attempting to reschedule."
+87,4,2025-11-14 05:23:52,89,32,3,"Client loved the property, drafting an offer."
+88,4,2025-11-14 05:26:20,71,68,3,"Client loved the property, drafting an offer."
+89,3,2025-11-14 05:26:49,90,59,3,"Client loved the property, drafting an offer."
+90,2,2025-11-14 05:24:10,16,93,1,"Client attended, gathering feedback."
+91,2,2025-11-14 05:23:29,25,28,3,"Client loved the property, drafting an offer."
+92,3,2025-11-14 05:28:06,13,25,3,"Client loved the property, drafting an offer."
+93,2,2025-11-14 05:24:14,39,2,2,"No show, attempting to reschedule."
+94,3,2025-11-14 05:26:20,6,7,2,"No show, attempting to reschedule."
+95,4,2025-11-14 05:26:28,14,2,4,Requires follow-up on financing.
+96,4,2025-11-14 05:25:16,57,44,1,"Client attended, gathering feedback."
+97,3,2025-11-14 05:26:16,62,15,,Outcome pending or appointment not yet complete.
+98,4,2025-11-14 05:25:54,63,10,1,"Client attended, gathering feedback."
+99,2,2025-11-14 05:28:22,20,73,,Outcome pending or appointment not yet complete.
+100,1,2025-11-14 05:23:59,32,16,4,Requires follow-up on financing.

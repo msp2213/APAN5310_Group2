@@ -1,0 +1,6 @@
+listing_status_id,name
+1,Active
+2,Pending
+3,Sold
+4,Rented
+5,Withdrawn
